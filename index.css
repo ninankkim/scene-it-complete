@@ -1,0 +1,24 @@
+body {
+	background-image: url(./images/51c22e9f59f506d283c1b07fa92e9a93.jpg);
+}
+
+.header h2 {
+	font-family: Impact, Charcoal, sans-serif ;
+	color:  white;
+
+}
+
+.header p {
+	color: white;
+}
+
+.results {
+	margin-top: 20px;
+}
+
+.row {
+
+	padding-right: 30px;
+	padding-bottom: 50px;
+	padding-left: 80px;
+}
